@@ -24,27 +24,27 @@ Sales Analysis
 
 Visualization
 
-Getting Started
+## Getting Started
 
-Tools Used 
+## Tools Used 
 
 Microsoft Excel 
 SQL Server 
 Power BI 
 
-Loading Data
+## Loading Data
 
 The  Sales dataset , a CSV file containing sales details  was loaded into SQL and .xls file into Power BI.
 
-Data Processing
+## Data Processing
 
 Data processing involves cleaning and preparing the data for analysis. This section includes various data preprocessing steps.
 
-Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 EDA is the heart of this project, where we explore and analyze the data to gain insights.
 
-Sales Anaysis
+## Sales Anaysis
 
 Total Sales by Product 
 
@@ -64,7 +64,7 @@ What is the total sales for each product category?
 
 what is the number of sales transactions in each region?
 
- what is the highest-selling product by total sales value?
+What is the highest-selling product by total sales value?
 
 What is the total revenue per product?
 
@@ -74,9 +74,9 @@ Who are the top 5 customers by total purchase amount?
 
 Calculate the percentage of total sales contributed by each region. 
 
- identify products with no sales in the last quarter. 
+Identify products with no sales in the last quarter. 
 
-Product Analysis
+## Product Analysis
 
 Total Sales by Product
 
@@ -92,7 +92,7 @@ What is the total revenue per product?
 
  identify products with no sales in the last quarter. 
 
-Visualization 
+## Visualization 
 
 Pivot tables were used in Excel to summarize the following reports 
 
@@ -112,7 +112,7 @@ Average Revenue by Region
 
 Power BI was used to create a dashboard that visualizes the insights found in Excel and SQL. The dashboard includes a sales overview, top-performing products, and regional breakdowns. 
 
-Conclusion
+## CONCLUSION
 
 Our data analysis of sales data has provided valuable insights that can guide decision-making across various aspects of the business. These insights include the identification of  best-selling products, top revenue-generating Regions, the top best customers, the best selling months and more. 
 
