@@ -6,4 +6,17 @@
 
 ###The sales data will be explored to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these ﬁndings. 
 
+##Table of Content
+
+###Getting Started
+
+Importing Necessary Libraries
+
+Loading Data
+
+Data Processing
+
+Exploratory Data Analysis (EDA)
+
+Sales Analysis
 
