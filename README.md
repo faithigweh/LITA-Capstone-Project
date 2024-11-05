@@ -1,6 +1,6 @@
 # LITA-Capstone-Project 1
 
-## Project 1: Sales Performance Analysis for a Retail Store 
+## Project 1: Sales Performance Analysis for a Retail Store
 
 ### Table of Content
 
