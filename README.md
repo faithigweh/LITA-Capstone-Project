@@ -16,7 +16,7 @@
 
 [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA)).
 
-S[ales Analysis](#Sales-Analysis).
+[Sales Analysis](#Sales-Analysis).
 
 [Visualization](#Visualization).
 [Conclusion](#Conclusion).
